@@ -1,6 +1,4 @@
-# vue-music
-
-> ���ֲ�����
+# Vue Music
 
 ## Build Setup
 
